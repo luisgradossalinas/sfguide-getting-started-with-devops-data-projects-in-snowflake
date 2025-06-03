@@ -1,5 +1,4 @@
 name: Deploy data pipeline
-
 # Action will run on pushes to selected branches
 on:
   push:
